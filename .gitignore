@@ -1,0 +1,14 @@
+# Hugo default output directory
+/public
+
+/themes
+deoplete.log
+
+## OS Files
+
+# OSX
+.DS_Store
+/themes/strange-case/exampleSite/public/
+
+# Jetbrains
+/.idea
